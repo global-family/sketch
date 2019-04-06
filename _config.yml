@@ -2,12 +2,12 @@
 title: Global Family Sketch
 email: ethan_down@hotmail.com
 description: Este es el lugar para encontrar los bosquejos de predicaciones de Global Family.
-baseurl: "/sketch" # the subpath of your site, e.g. /blog
-url: "https://global-family.github.io/sketch/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://global-family.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Erick
+username: Sketch Global Family
 user_description: Some text about you.
 disqus_username: disqus_username
 
